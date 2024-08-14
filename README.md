@@ -1,5 +1,3 @@
-# Snehalaya Mi Smart Band
-
 
 ## Set Up Device
 ### Sign Out of Previous Account
