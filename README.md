@@ -12,7 +12,9 @@
 </div> 
 <p></p> 
 
-
+<!-- potneital need to sync devices when charging
+if theyre taking off the watches when dancing, we can have the watches be synced during that time
+all the watches should have some indication of who they belong to -->
 
 ## Download data
 - Go to [api-mifit.huami.com/t/account_mifit](https://user.huami.com/privacy2/index.html?loginPlatform=web&platform_app=com.xiaomi.hm.health&v=4.0.17#/)
