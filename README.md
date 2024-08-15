@@ -6,8 +6,8 @@
 - Hold Watch near phone and pull down on screen to `Sync Device`
 <div style="display: flex; justify-content: space-between;">
    <img src="./images/sync1.PNG" style="width: 33%;" alt="Profile">
-   <img src="./images/sync2.JPG" style="width: 33%;" alt="Settings">
-   <img src="./images/sync3.JPG" style="width: 33%;" alt="SignOut">
+   <img src="./images/sync2.jpg" style="width: 33%;" alt="Settings">
+   <img src="./images/sync3.jpg" style="width: 33%;" alt="SignOut">
 </div> 
 <p></p> 
 
